@@ -13,4 +13,5 @@ class Author
     @@all 
   end 
   
+  def pos
 end 
