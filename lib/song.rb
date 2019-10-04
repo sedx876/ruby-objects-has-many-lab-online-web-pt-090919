@@ -6,6 +6,7 @@ class Song
   
   def initialize(name, artist)
     @name = name 
+    @artist = artist 
   end
   
   def artist_name
