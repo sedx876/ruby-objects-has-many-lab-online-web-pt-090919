@@ -1,6 +1,6 @@
 class Author
   
-  @@all
+  @@all = []
   
   attr_accessor :name 
 end 
